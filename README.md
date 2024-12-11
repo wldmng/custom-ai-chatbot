@@ -38,6 +38,14 @@ OpenAI API를 활용하여 자연어 처리 기반 응답을 생성하며, PubSu
 ---
 
 
+## 채팅 인터페이스
+
+![Chat UI Screenshot](image/chatbot.png)
+
+
+---
+
+
 ## 제한 사항
 
 1. **기억 기능 제한**
@@ -59,14 +67,6 @@ OpenAI API를 활용하여 자연어 처리 기반 응답을 생성하며, PubSu
 5. **복잡한 계산 미지원**
    - 고난도의 수학적 문제나 복잡한 연산은 처리할 수 없습니다.
    - 간단한 수식 계산만 지원합니다.
-
-
----
-
-
-## 채팅 인터페이스
-
-![Chat UI Screenshot](image/chatbot.png)
 
 
 ---
