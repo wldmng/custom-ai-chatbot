@@ -42,6 +42,7 @@ OpenAI API를 활용하여 자연어 처리 기반 응답을 생성하며, PubSu
 
 ![Chat UI Screenshot](image/chatbot.png)
 
+<https://rimchatbotstorage.blob.core.windows.net/data/front.html>
 
 ---
 
